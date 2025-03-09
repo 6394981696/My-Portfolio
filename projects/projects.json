@@ -11,5 +11,14 @@
     }
   }
   
-  
+   {
+    "name": "Contact&Blog",
+    "desc": "Built Contact & Blog using React with a contact form and blog listing with search and pagination. 🚀 ",
+    "image": "",
+    "category": "web",
+    "links": {
+    "view": "https://contact-us-form-and-blog-listing-page-development.vercel.app/",
+    "code": "https://github.com/6394981696/Contact-Us-Form-and-Blog-Listing-Page-Development"
+    }
+  }
 ]
