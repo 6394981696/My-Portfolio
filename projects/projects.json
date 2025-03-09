@@ -3,7 +3,7 @@
   {
     "name": "PhormEasy",
     "desc": "A clone of the popular online pharmacy platform PharmEasy, built using HTML, CSS, and JavaScript. ",
-    "image": "phormeasy",
+    "image": "Phormeasy",
     "category": "web",
     "links": {
     "view": "https://6394981696.github.io/masai-website/",
@@ -14,7 +14,7 @@
    {
     "name": "Contact&Blog",
     "desc": "Built Contact & Blog using React with a contact form and blog listing with search and pagination. 🚀 ",
-    "image": "",
+    "image": "contact&blog",
     "category": "web",
     "links": {
     "view": "https://contact-us-form-and-blog-listing-page-development.vercel.app/",
